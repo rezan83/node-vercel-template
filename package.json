@@ -1,0 +1,19 @@
+{
+  "name": "node-vercel-template",
+  "version": "1.0.0",
+  "description": "pure node restapi vercel template",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build",
+    "start": "vercel dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vercel",
+    "node",
+    "template",
+    "restAPI"
+  ],
+  "author": "Rezan Mohammad",
+  "license": "MIT"
+}
